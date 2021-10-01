@@ -1,0 +1,25 @@
+{
+  "name": "evil_sock_puppet",
+  "stats": {
+    "hp": 750,
+    "ac": 400,
+    "speed": 900
+  },
+  "abilities": {
+    "strength": 350,
+    "dexterity": 500,
+    "constitution": 450,
+    "intelligence": 700,
+    "wisdom": 1,
+    "charisma": 11
+  },
+  "attack": {
+    "name": "sock_grab",
+    "damage": 500
+  },
+  "special": {
+      "name": "puppet_master",
+      "description": "evil sock puppet taunts the enemy and hypenotize it",
+      "effect": "the enemy becomes a puppet and help the evil suck puppet gain 100 strenght per puppet"
+  }
+}
