@@ -1,0 +1,25 @@
+{
+  "name": "kirby",
+  "stats": {
+    "hp": 1200,
+    "ac": 300,
+    "speed": 500
+  },
+  "abilities": {
+    "strength": 450,
+    "dexterity": 600,
+    "constitution": 600,
+    "intelligence": 350,
+    "wisdom": 10,
+    "charisma": 1000
+  },
+  "attack": {
+    "name": "quick_jab",
+    "damage": 600
+  },
+  "special": {
+      "name": "devour",
+      "description": "kirby opens his mouth wide and a giant gust of wind swallows his enemy",
+      "effect": "eats their enemy and spits them out dealing 2500 damage and a 30 damage poison tick for 30 seconds"
+  }
+}
