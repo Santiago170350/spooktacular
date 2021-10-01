@@ -1,0 +1,25 @@
+{
+  "name": "demon_frost",
+  "stats": {
+    "hp": 650,
+    "ac": 1000,
+    "speed": 900
+  },
+  "abilities": {
+    "strength": 500,
+    "dexterity": 350,
+    "constitution": 450,
+    "intelligence": 870,
+    "wisdom": 600,
+    "charisma": 5
+  },
+  "attack": {
+    "name": "frostbite",
+    "damage": 750
+  },
+  "special": {
+      "name": "blizzard",
+      "description": "snow fills the battlefield chills run through every enemy",
+      "effect": "immobilize's all enemies and deals 2000 damage  "
+  }
+}
